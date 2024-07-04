@@ -7,3 +7,6 @@
 [submodule "Mile.Project.Windows"]
 	path = Mile.Project.Windows
 	url = https://github.com/ProjectMile/Mile.Project.Windows
+[submodule "ASSET_DISPLAY"]
+	path = ASSET_DISPLAY
+	url = https://github.com/Md-Shahrukh/ASSET_DISPLAY.git
